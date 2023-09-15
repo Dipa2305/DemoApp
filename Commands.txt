@@ -1,1 +1,7 @@
 git commands
+git init
+git add filename
+git commit -m ""
+git checkout -b branchname
+git cofig --global user.name 
+git config --global user.email
